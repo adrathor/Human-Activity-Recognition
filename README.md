@@ -22,3 +22,4 @@ Below are the ML models that were implemented:
 5. Random Forest Classifier with GridSearch
 6. Gradient Boosted Decision Trees With GridSearch
 
+LSTM model.ipynb file shows the implementation of the LSTM model that used the raw data instead of the specially engineered data and gave over 90% accuracy. 
